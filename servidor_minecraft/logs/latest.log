@@ -1,0 +1,108 @@
+[03:01:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[03:01:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[03:01:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:01:14] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[03:01:14] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.8), ViaBackwards (5.4.2), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[03:01:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:01:21] [ServerMain/INFO]: Loaded 1407 recipes
+[03:01:21] [ServerMain/INFO]: Loaded 1520 advancements
+[03:01:21] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[03:01:22] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 455.6ms
+[03:01:22] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[03:01:22] [Server thread/INFO]: Loading properties
+[03:01:22] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[03:01:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:01:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:01:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:01:23] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:01:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:01:23] [Server thread/INFO]: Default game type: SURVIVAL
+[03:01:23] [Server thread/INFO]: Generating keypair
+[03:01:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:01:23] [Server thread/INFO]: Using epoll channel type
+[03:01:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:01:23] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[03:01:24] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
+[03:01:24] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
+[03:01:24] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:01:24] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:01:25] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:01:25] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:01:26] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[03:01:26] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[03:01:26] [Server thread/INFO]: [floodgate] Took 656ms to boot Floodgate
+[03:01:26] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[03:01:26] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[03:01:26] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[03:01:27] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[03:01:27] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[03:01:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:01:27] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[03:01:28] [Server thread/ERROR]: [SkinsRestorer] Your Minecraft version (1.21.8) is not supported by this version of SkinsRestorer! Is there a newer version available? https://modrinth.com/plugin/skinsrestorer If not, join our Discord server!
+[03:01:28] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[03:01:28] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[03:01:28] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:01:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:01:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:01:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:01:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:01:28] [Server thread/INFO]: Preparing level "world"
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:01:28] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:01:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:01:29] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:29] [Server thread/INFO]: Preparing spawn area: 2%
+[03:01:30] [Server thread/INFO]: Preparing spawn area: 2%
+[03:01:30] [Server thread/INFO]: Time elapsed: 1033 ms
+[03:01:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:01:30] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:30] [Server thread/INFO]: Time elapsed: 223 ms
+[03:01:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:01:30] [Server thread/INFO]: Preparing spawn area: 0%
+[03:01:30] [Server thread/INFO]: Time elapsed: 158 ms
+[03:01:30] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
+[03:01:30] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7 (772)
+[03:01:30] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[03:01:31] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[03:01:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[03:01:32] [Server thread/INFO]: [spark] Starting background profiler...
+[03:01:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:01:32] [Server thread/INFO]: [Geyser-Spigot] 
+[03:01:32] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b897 (git-master-57eb3b7)
+[03:01:32] [Server thread/INFO]: [Geyser-Spigot] 
+[03:01:32] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[03:01:35] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 49970
+[03:01:35] [Server thread/INFO]: [Geyser-Spigot] Done (3.249s)! Run /geyser help for help!
+[03:01:36] [Server thread/INFO]: Done preparing level "world" (7.409s)
+[03:01:36] [Server thread/INFO]: Running delayed init tasks
+[03:01:36] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[03:01:36] [Server thread/INFO]: Done (23.614s)! For help, type "help"
+[03:01:36] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[03:05:40] [User Authenticator #0/INFO]: UUID of player Mabilone is 2f3a056a-6bb9-3eb8-8a10-143c4a956faf
+[03:05:40] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[03:05:42] [Server thread/INFO]: Mabilone joined the game
+[03:05:42] [Server thread/INFO]: Mabilone[/127.197.212.205:42017] logged in with entity id 56 at ([world]-205.4005308579991, 87.0, -27.935499566633094)
+[03:06:00] [Server thread/INFO]: [Mabilone: Set own game mode to Creative Mode]
+[03:13:05] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username sebinsebonn3404
+[03:13:05] [localSession-7-2/INFO]: [Geyser-Spigot] sebinsebonn3404 (logged in as: sebinsebonn3404) has connected to the Java server
+[03:13:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .sebinsebonn3404 joined (UUID: 00000000-0000-0000-0009-01f91ab6dded)
+[03:13:06] [Server thread/INFO]: .sebinsebonn3404 joined the game
+[03:13:06] [Server thread/INFO]: .sebinsebonn3404[/127.197.212.205:0] logged in with entity id 863 at ([world]-141.5, 71.0, 1.5)
+[03:14:11] [Server thread/INFO]: Mabilone lost connection: Disconnected
+[03:14:11] [Server thread/INFO]: Mabilone left the game
+[03:14:17] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] sebinsebonn3404 has disconnected from the Java server because of Bedrock client timed out
+[03:14:17] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .sebinsebonn3404 disconnected
+[03:14:17] [Server thread/INFO]: .sebinsebonn3404 lost connection: Disconnected
+[03:14:17] [Server thread/INFO]: .sebinsebonn3404 left the game
